@@ -1,0 +1,19 @@
+{
+  "name": "svelte",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "svelte": "^3.49.0",
+    "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "aonweb": "^2.0.3",
+    "axios": "^1.7.7",
+    "guess": "^1.0.2"
+  }
+}
